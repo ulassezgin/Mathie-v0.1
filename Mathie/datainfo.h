@@ -28,7 +28,7 @@ double basicmath::substraction()   {
 double basicmath::multiplication()  {
     return first_operand * second_operand;
 }
-
+ 
 double basicmath::division()    {
     return first_operand / second_operand;
 }
