@@ -30,7 +30,7 @@ void pre_basicmath() {
             cout << operation.division() << endl;
             break;
         default :
-        	cout << "NANsIXD" << endl;
+        	cout << "NANIXD" << endl;
             break;
     }
 }
