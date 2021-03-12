@@ -2,7 +2,7 @@
 
 *********************************
 <Author>		Ulas Sezgin
-<Date>			07/03/2021
+<Date>			07/03/2021 
 *********************************
 
 */
@@ -19,13 +19,13 @@ int main()	{
 	setlocale(LC_ALL, "Turkish");
 	while(true)	{
 		cout << "*********************************\n<Author>		Ulas Sezgin\n<Date>			07/03/2021\n*********************************\n\n"
-		<<"    Bu program çesitli lise matematigi hesaplamalarini çözebilmek için yazilmistir.Islem yapilabilecek konular asagida listelenmistir.\n\n"
+		<<"    Bu program Ã§esitli lise matematigi hesaplamalarini Ã§Ã¶zebilmek iÃ§in yazilmistir.Islem yapilabilecek konular asagida listelenmistir.\n\n"
 		<<"    1- Basit Hesap Makinesi\n"
-		<<"    2- Fonksiyonlarda Toplama Çikarma\n"
-		<<"    4- Birinci ve Ikinci Derece Denklemlerin Çözümü\n"
-		<<"    5- Karmasik Sayilarda Dört Islem\n"
-		<<"    6- Bir Parabolün Tepe Noktasi\n"
-		<<"    Çikis yapmak için yukarida belirtilenler disinda bir tusa basiniz\n";
+		<<"    2- Fonksiyonlarda Toplama Ã‡ikarma\n"
+		<<"    4- Birinci ve Ikinci Derece Denklemlerin Ã‡Ã¶zÃ¼mÃ¼\n"
+		<<"    5- Karmasik Sayilarda DÃ¶rt Islem\n"
+		<<"    6- Bir ParabolÃ¼n Tepe Noktasi\n"
+		<<"    Ã‡ikis yapmak iÃ§in yukarida belirtilenler disinda bir tusa basiniz\n";
 		int selection; 
 		cin >> selection;
 		switch (selection)	{
